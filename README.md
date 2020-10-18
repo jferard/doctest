@@ -2,7 +2,7 @@
 
 Copyright (C) J. Férard 2018
 
-A Maven DocTest (see https://docs.python.org/3.7/library/doctest.html) for Java plugin **proof of concept**.
+A "Maven DocTest (see https://docs.python.org/3.7/library/doctest.html) for Java" plugin **proof of concept**.
 
 **Not designed to be used in exploitation.**
 
